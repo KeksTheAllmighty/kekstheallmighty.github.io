@@ -6,13 +6,16 @@
 
 body {
     overflow-x: hidden;
+    font-family: Roboto Slab,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 p {
+    font-family: Roboto Slab,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 20px;
 }
 
 p.small {
+    font-family: Roboto Slab,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
 }
 
