@@ -4,7 +4,7 @@ email: melnik.maksim@hotmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "IT-Security Specialist, Developer"
+skills: "IT-security consultant - developer - finance hobbyist"
 meta_author: Melnik Maksim
 
 # Google webmaster tools
@@ -45,11 +45,6 @@ social:
     url: https://www.linkedin.com/in/maksim-melnik/
   - title: github
     url: https://github.com/KeksTheAllmighty
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
