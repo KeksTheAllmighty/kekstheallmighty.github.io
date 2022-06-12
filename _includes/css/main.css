@@ -6,16 +6,13 @@
 
 body {
     overflow-x: hidden;
-    font-family: Roboto Slab,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 p {
-    font-family: Roboto Slab,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 20px;
 }
 
 p.small {
-    font-family: Roboto Slab,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
 }
 
@@ -25,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #fff !important;
 }
 
 h1,
@@ -35,7 +32,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: Roboto Slab,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
@@ -52,7 +49,7 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f121";
+    content: "\f005";
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -67,15 +64,15 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.primary }};
 }
 
 hr.star-primary:after {
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.primary }};
     background-color: #fff;
 }
 
@@ -83,10 +80,10 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
-header, .portfolio {
+header {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.secondary }};
+    background: #{{ site.color.primary }};
 }
 
 header .container {
@@ -102,7 +99,7 @@ header img {
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
-    font-family: Roboto Slab,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
 }
@@ -153,8 +150,9 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family: Roboto Slab,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+    background-color: #{{ site.color.primary }};
 }
 
 .navbar a:focus {
@@ -366,7 +364,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
 }
 
 footer .footer-col {
@@ -375,7 +373,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
 }
 
 .btn-social {
@@ -459,7 +457,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -475,8 +473,16 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
+#portfolio > div > div.row > div > * {
+    color: #{{ site.color.primary }} !important;
+}
+
+#contact > div > div.row > div > * {
+    color: #{{ site.color.primary }} !important;
+}
+
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary }} !important;
+    background-color: #{{ site.color.secondary-dark }} !important;
 }
 
 /* Fix modal mouse wheel issues */
