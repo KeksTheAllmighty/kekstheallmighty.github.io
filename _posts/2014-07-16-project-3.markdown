@@ -6,6 +6,8 @@ img: 3.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Other
+description: "
+<p>Besides IT-Security and coding I found myself in a need of traffic acquisition for some of my projects. Thus, I was able to gather some expertise in search engine optimization (SEO) as well as social-media marketing (SMM) on YouTube, Instagram and Pinterest platforms. Thus, I experimented with keywords, hashtags, posting techniques. Furthermore I cooperated with numerous influencers to create promotion campaigns. Most of this work is automated.</p>
+"
 ---

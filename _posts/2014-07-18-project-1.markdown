@@ -6,6 +6,18 @@ img: 1.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: IT-Security
+description: "
+<p>During my studies at TU-Darmstadt I was fascinated by the IT-Security field and practiced a lot of attack techniques at local events, USD hacker-days, CTFs and VulnHub machines. I also was able to find a vulnerability on University machines which I, of course, reported immediately.</p>
+<p>After finishing the university I ended up at an SOC in a finance background. In addition to my job I am continuing my education by taking on Security certifications. Further You will see the list of accomplished studies.</p>
+&nbsp;
+<h2 class='text-center mt-10'>Certifications</h2>
+<hr class='star-primary'>
+<ul style='font-size:20px'>
+<li>Certified Linux Administrator (LPIC-1)</li>
+<li>Splunk 7.x Fundamentals 1</li>
+<li>CompTIA Security+</li>
+<li>CompTIA PenTest+</li>
+</ul>
+"
 ---
