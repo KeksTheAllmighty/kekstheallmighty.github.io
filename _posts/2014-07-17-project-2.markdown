@@ -21,7 +21,7 @@ description: "
 <li>Flutter app to find and share shortaged goods in supermarkets. This was supposed to solve my toilet paper issues during the beginning of Corona early 2020. Software: Flutter, Google Firebase.</li>
 <li>Time-series analysis of crypto-market data. The project was supposed to assist my crypto-trading activities. Software: Python, Tensorflow, Pandas.</li>
 <li>Numerous Wordpress websites including E-commerce online-shop. Software: Wordpress.
-<li>Flask-based website for a financial analytics company. Software: Python, Flask, Pandas, Javascript, Google Cloud, Terraform.</li>
+<li>Flask-based website for a financial analytics company. The software was deployed on Google Cloud using GitHub pipelines for testing and rollout. Software: Python, Flask, Pandas, Javascript, Google Cloud, Ansible, Packer, Terraform.</li>
 </ul>
 "
 ---
