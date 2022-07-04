@@ -16,6 +16,7 @@ description: "
 <ul style='font-size:20px'>
 <li>Certified Linux Administrator (LPIC-1)</li>
 <li>Splunk 7.x Fundamentals 1</li>
+<li>eJPT - eLearnPlatform Junior Penetration Tester</li>
 <li>CompTIA Security+</li>
 <li>CompTIA PenTest+</li>
 </ul>

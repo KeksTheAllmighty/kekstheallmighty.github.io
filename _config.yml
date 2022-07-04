@@ -1,11 +1,11 @@
 # Site settings
-title: Melnik Maksim
+title: Maksim Melnik
 email: melnik.maksim@hotmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+description: "Maksim Melnik - IT-Security Professional - Developer."
+keywords: "it-security, penetration test, it-consultant, phishing campaign, it-security training, python, pentest, pentester"
 skills: "IT-Security Professional - Developer"
-meta_author: Melnik Maksim
+meta_author: Maksim Melnik
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Melnik Maksim
+  copyright: Maksim Melnik
   location: Location
   social: Social Media
   credits: Credits

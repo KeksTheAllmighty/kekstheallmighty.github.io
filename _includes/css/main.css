@@ -482,6 +482,16 @@ footer .footer-below {
     color: #{{ site.color.primary }} !important;
 }
 
+.company-row {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+#contact {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
 #contact > div > div.row > div > * {
     color: #{{ site.color.primary }} !important;
 }
