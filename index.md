@@ -5,11 +5,11 @@ title: Home
 
 # Skills
 
-**General**: IT-Security, Penetration Testing, Red Teaming, Security Operations Center (SOC), Artificial Intelligence, Machine Learning, Data Engineering, Process Automation, Deep Learning, Time-Series Analysis, Financial Markets, Risk Management, Blockchain, Social-Media Automation, Web Development.
+**General**: IT-Security, Penetration Testing, SOC, Artificial Intelligence, Machine Learning, Data Engineering, Process Automation, Deep Learning, Time-Series Analysis, Financial Markets, Risk Management, Blockchain, Social-Media Automation, Web Development.
 
-**Technologies**: Windows, Linux, Kali Linux, BurpSuite, Metasploit, Nessus, Bloodhound, ArcSight, Splunk, Elasticsearch, Opensearch, Hive, Google Cloud, Django, Flask, Numpy, Pandas, Numpy, PyTorch, Tensorflow, Docker, Ansible, Packer, Terraform, Flutter, JVM, Keycloak IDM, Apache Kafka, Wordpress, Git, Jenkins, Selenium, Bootstrap
+**Technologies**: Windows, Linux, Kali, ArcSight, Splunk, Elasticsearch, Opensearch, Hive, Google Cloud, Django, Flask, Numpy, Pandas, PyTorch, Tensorflow, Docker, Ansible, Packer, Terraform, Flutter, JVM, Keycloak IDM, Apache Kafka, Wordpress, Git, Jenkins, Selenium, Bootstrap, LaTeX.
 
-**Programming Languages**: Python, Java, Powershell, Bash, C, C#, C++, PHP, Javascript, Dart, Solidity, Gradle
+**Programming Languages**: Python, Java, Powershell, Bash, C, C#, C++, PHP, Javascript, Dart, Solidity, Gradle.
 
 # Education & Certifications
 
@@ -27,7 +27,7 @@ title: Home
 
 ## SOC-Analyst @ ACG - Automation Consulting Group
 
-November 2020 - ...
+November 2020 - Present
 
 - SOC-Analyst at KfW Bank: incident detection and response in ArcSight, Splunk, Hive.
 - Conducted a penetration test on the internal web-application.
@@ -54,32 +54,34 @@ May 2016 - November 2020
 
 ## Student Research Assistant @ TU Darmstadt
 
+November 2017 - June 2018
 January 2019 - July 2019
 
 - Developed Wordpress PHP plugin for submission of cyber crime reports.
 - Designed a PoC of a Hyperledger Smart-Contract.
 - Implemented a Python LSTM model to forecast Linux machine's vulnerability.
+- Django backend was implement to interact with the application.
 
 # Projects
 
 ## Financial Data Science & DevOps
 
-- Used Freqtrade to trade crypto.
-- Configured trading strategy backtest process.
-- Created a Python Flask website to showcase machine learning approach for price forecasting.
-- Configured GitHub Workflows to build Google Cloud instances with Ansible and Packer.
+- Configured Freqtrade to trade crypto.
+- Implemented trading strategy backtest process.
+- Created a Python Flask website to showcase machine learning approach for stock price forecasting.
+- Configured GitHub Workflows to build and deploy Google Cloud instances with Ansible and Packer.
 
 ## Online-Shop
 
 - Wordpress website for selling sewing pattern PDF files.
-- Configured infrastracture for file sharing as well as easy cropping and rendering of the sewing pattern PDF files.
+- Configured infrastracture for file sharing as well as python interface for easy cropping and rendering of the sewing pattern PDF files.
 - Configured Facebook Ads, Google Ads, Etsy.
 - [Link](https://moam-patterns.com/)
 
 ## Social Media Automation
 
 - Developed Python application to analyze trending topics using Google Trends.
-- Developed another Python application to automate video cutting process.
+- Developed another Python application to automate video cutting process using moviepy.
 - Automated Instagram, Youtube and Pinterest content upload.
 
 ## Other
@@ -95,6 +97,5 @@ January 2019 - July 2019
 - English
 - German
 - Russian
-
 
 {% include archive.html %}
