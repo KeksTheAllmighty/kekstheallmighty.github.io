@@ -5,15 +5,18 @@ title: Home
 
 # Skills
 
-**General**: IT-Security, Penetration Testing, SOC, Artificial Intelligence, Machine Learning, Data Engineering, Process Automation, Deep Learning, Time-Series Analysis, Financial Markets, Risk Management, Blockchain, Social-Media Automation, Web Development.
+**IT-Security**: SOC, Incident Responce, Penetration Testing, Kali Linux, ArcSight, Splunk, Elasticsearch, Opensearch, Hive.
 
-**Technologies**: Windows, Linux, Kali, ArcSight, Splunk, Elasticsearch, Opensearch, Hive, Google Cloud, Django, Flask, Numpy, Pandas, PyTorch, Tensorflow, Docker, Ansible, Packer, Terraform, Flutter, JVM, Keycloak IDM, Apache Kafka, Wordpress, Git, Jenkins, Selenium, Bootstrap, LaTeX.
+**Software Development**: Machine Learning, Data Engineering, Deep Learning, Process Automation, Time-Series Analysis, Financial Markets, Risk Management, Social-Media Automation, Web-Development.
 
-**Programming Languages**: Python, Java, Powershell, Bash, C, C#, C++, PHP, Javascript, Dart, Solidity, Gradle.
+**Technologies and Libraries**: Google Cloud, Docker, Ansible, Packer, Terraform, Git, Jenkins, Django, Flask, Numpy, Pandas, PyTorch, Tensorflow, Selenium,Keycloak IDM, Apache Kafka, Wordpress.
+
+**Programming Languages**: Python, Java, Powershell, Bash, C, C#, C++, PHP, Javascript, Flutter/Dart, Solidity, Gradle.
 
 # Education & Certifications
 
 - IT-Security Master @ TU-Darmstadt
+- Google Cybersecurity
 - Comptia Security+
 - Comptia Pentest+
 - Comptia CySA+
@@ -21,7 +24,6 @@ title: Home
 - eJPT
 - eCPPTv2
 - OSCP
-- Google Cybersecurity
 
 # Experience
 
@@ -29,8 +31,8 @@ title: Home
 
 November 2020 - Present
 
-- SOC-Analyst at KfW Bank: incident detection and response in ArcSight, Splunk, Hive.
-- Conducted a penetration test on the internal web-application.
+- SOC-Analyst at KfW Bank: incident detection and response using ArcSight, Splunk, Hive.
+- Conducted a penetration test on the internal web-application and external services.
 - Configured an internal Opensearch SIEM instance.
 - Developed internal sigma rules.
 - Set up a CTF-Challenge in scope of ITCS-event.
@@ -51,7 +53,6 @@ May 2016 - November 2020
 - Developed Python Robot Tests using Selenium for the internal web application.
 - Developed a Flutter-application for finding general goods in supermarkets during Corona-crisis.
 
-
 ## Student Research Assistant @ TU Darmstadt
 
 November 2017 - June 2018
@@ -66,8 +67,9 @@ January 2019 - July 2019
 
 ## Financial Data Science & DevOps
 
-- Configured Freqtrade to trade crypto.
-- Implemented trading strategy backtest process.
+- Configured Freqtrade trading bots.
+- Implemented trading strategies and backtest process.
+- Studied performance of multiple trading strategies.
 - Created a Python Flask website to showcase machine learning approach for stock price forecasting.
 - Configured GitHub Workflows to build and deploy Google Cloud instances with Ansible and Packer.
 
@@ -89,7 +91,7 @@ January 2019 - July 2019
 - Participated in Computer Chaos Group meetups @ Darmstadt.
 - Participated in numerous CTF events.
 - Achieved 1st Place @ Merck Hackathon where a Speech-to-Text and Text-to-Speech chat-bot was deployed in Azure infrastructure.
-- Discovered and reported kernel vulnerability @ TU-Darmstadt. 
+- Discovered and reported kernel vulnerability @ TU-Darmstadt.
 - Co-Authored a [paper](https://www.researchgate.net/publication/356199474_A_social_media-based_over_layer_on_the_edge_for_handling_emergency-related_events).
 
 # Languages
