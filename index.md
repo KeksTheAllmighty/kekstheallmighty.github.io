@@ -3,6 +3,10 @@ layout: home
 title: Home
 ---
 
+# About
+
+Hi, my name is Maksim. I am IT-Security professional with a passion for financial python and web3 technologies. Currently I am employed as an analyst in the KFW Bank in Frankfurt, Germany.
+
 # Skills
 
 **IT-Security**: SOC, Incident Responce, Penetration Testing, Kali Linux, ArcSight, Splunk, Elasticsearch, Opensearch, Hive.
