@@ -103,5 +103,6 @@ January 2019 - July 2019
 - English
 - German
 - Russian
+- Ukrainian
 
 {% include archive.html %}
