@@ -31,7 +31,7 @@ Hi, my name is Maksim. I am IT-Security professional with a passion for financia
 
 # Experience
 
-## SOC-Analyst @ ACG - Automation Consulting Group
+## Senior Cybersecurity Analyst @ ACG - KFW
 
 November 2020 - Present
 
