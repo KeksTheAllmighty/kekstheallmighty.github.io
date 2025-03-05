@@ -9,13 +9,11 @@ Hi, my name is Maksim. I am IT-Security professional with a passion for financia
 
 # Skills
 
-**IT-Security**: SOC, Incident Responce, Penetration Testing, Kali Linux, ArcSight, Splunk, Elasticsearch, Opensearch, Hive.
+**IT-Security:**: Penetration Testing (Web, Network, Mobile, OT), Phishing Campaigns, Vulnerability Scanning, Red Teaming, Blue Teaming, SOC, Threat Hunting, Security Monitoring, Log Analysis, Incident Response, Use Case and Playbook Development, SIEM, EDR, NDR, XDR, SOAR, MDR, IDS, IPS, Firewall Configuration
 
-**Software Development**: Machine Learning, Data Engineering, Deep Learning, Process Automation, Time-Series Analysis, Financial Markets, Risk Management, Social-Media Automation, Web-Development.
+**Technologies and Frameworks:** Burpsuite, Metasploit, Cobalt Strike, Nessus, Bloodhound, GoPhish, Active Directory, Microsoft Sentinel, Microsoft Defender, ArcSight, Palo Alto, Splunk, ELK, Elasticsearch, Opensearch, Hive, Thor, Asgard, Azure, AWS, Google Cloud, Docker, Ansible, Packer, Terraform, Git, Jenkins
 
-**Technologies and Libraries**: Google Cloud, Docker, Ansible, Packer, Terraform, Git, Jenkins, Django, Flask, Numpy, Pandas, PyTorch, Tensorflow, Selenium,Keycloak IDM, Apache Kafka, Wordpress.
-
-**Programming Languages**: Python, Java, Powershell, Bash, C, C#, C++, PHP, Javascript, Flutter/Dart, Solidity, Gradle.
+**Programming Languages**: Python, Java, Powershell, Bash, C, C#, C++, HTML, PHP, CSS, Javascript, Dart, Solidity, Gradle, Assembler
 
 # Education & Certifications
 
@@ -28,6 +26,7 @@ Hi, my name is Maksim. I am IT-Security professional with a passion for financia
 - eJPT
 - eCPPTv2
 - OSCP
+- OSDA
 
 # Experience
 
@@ -35,14 +34,52 @@ Hi, my name is Maksim. I am IT-Security professional with a passion for financia
 
 November 2020 - Present
 
-- SOC-Analyst at KfW Bank: incident detection and response using ArcSight, Splunk, Hive.
-- Conducted a penetration test on the internal web-application and external services.
-- Configured an internal Opensearch SIEM instance.
-- Developed internal sigma rules.
-- Set up a CTF-Challenge in scope of ITCS-event.
-- Deployed Instagram automation.
-- Development of numerous Python/Bash scripts for the internal purposes.
-- Created an internal Cybersecurity Awareness training program.
+- **Cyber Defense & Incident Response Expertise**
+    - Cyber Defense Strategy: Expertise in developing and implementing Cyber Defense strategies, including the application of advanced frameworks and integration of security solutions for early detection and prevention of threats 
+    - Incident Response: Extensive experience in Incident Response and conducting forensic investigations, including identification, analysis, and mitigation of security incidents across complex IT infrastructures
+- **Frameworks and Technologies**
+    - MITRE ATT&CK Framework: Professional application of the MITRE ATT&CK Framework for analyzing and identifying attack methods, building targeted defense strategies, and optimizing threat detection along the Cyber Kill Chain
+    - SIEM (Security Information and Event Management): Long-standing experience in implementing and managing SIEM solutions (e.g., Elastic, Splunk, ArcSight) to monitor IT systems and identify security-relevant events
+    - EDR (Endpoint Detection and Response): Expertise in utilizing and managing EDR systems (e.g., Elastic, Splunk, ArcSight) for analysis and defense against threats on endpoints, with continuous security monitoring
+    - XDR (Extended Detection and Response): Proficient in the use and integration of XDR technologies (e.g., Microsoft, Palo Alto) for holistic threat detection and analysis across endpoints, networks, and cloud platforms
+    - MDR (Managed Detection and Response): Experience in providing and implementing MDR services (e.g., Microsoft MDR) for proactive threat monitoring and response 
+    - SOAR (Security Orchestration, Automation, and Response): Expertise in utilizing SOAR technologies to automate security operations, reduce response times, and increase operational efficiency when handling security incidents
+- **Vulnerability and Threat Analysis**
+    - Advanced Persistent Threat Detection: Experience in deploying specialized tools for detecting Advanced Persistent Threats (APT), including the use of Thor (APT scanner) for identifying and analyzing targeted attacks
+    - Compromise Assessment: Conducting Compromise Assessments using tools like Asgard and Thor (Nextron Systems) for in-depth security incident analysis and identifying compromised systems
+- **Use Case Development and Integration**
+    - Use Case Design & Optimization: Expertise in designing, implementing, and optimizing Use Cases to improve the detection capabilities and efficiency of security solutions (SIEM, EDR, XDR)
+    - Event Source Integration: Experience in integrating event and log sources into SIEM, EDR, and XDR systems, including the development of connectors for sourcing and analyzing security-relevant events from various platforms
+- **Proactive Threat Detection and Analysis**
+    - Cyber Attack Detection & Analysis: Expertise in monitoring, detecting, and analyzing cyber-attacks and compliance violations to minimize risks and ensure conformity with security standards
+    - Anomaly and Attack Pattern Detection: Proficient in detecting anomalies and attack patterns along the Cyber Kill Chain, identifying early indicators of attacks and enabling fast response
+    - Phishing Email Analysis: In-depth experience in analyzing phishing emails, identifying malicious software and social engineering techniques used in attacks
+- **Threat Hunting & Technical Consultation**
+    - Proactive Threat Hunting: Extensive experience in threat hunting to proactively identify hidden threats and close security gaps
+    - Technical Consulting: Providing technical consulting services to clients on deploying protective measures against known and unknown attack methods, as well as strategically improving their security architecture
+    - SOC Process Development: Assisting clients in setting up and optimizing SOC processes, including defining security policies and implementing efficient security operations
+-  **Penetration Testing & Security Assessment**
+    - Conducted penetration tests on internal web applications and external-facing services, identifying security vulnerabilities and providing mitigation strategies
+    - Performed manual and automated security testing, utilizing tools such as Burp Suite, Metasploit, Nmap and Nessus
+    - Documented findings in comprehensive security reports with risk assessments and remediation steps
+- **Capture The Flag (CTF) Challenge Development**
+    - Designed and set up multiple CTF challenges for internal training and cybersecurity competitions 
+    - Created real-world attack scenarios to enhance employees' practical security skills
+    - Developed challenges covering web security, reverse engineering, cryptography, and forensics
+- **Cybersecurity Awareness Training**
+    - Led internal cybersecurity awareness training to educate employees on best security practices
+    - Covered topics such as phishing attacks, password hygiene, social engineering, and incident response
+    - Designed interactive training sessions, including simulated phishing campaigns and hands-on workshops
+
+## Financial Data Science & DevOps
+
+November 2021 - February 2023
+
+- Configured trading bots using python Freqtrade library
+- Implemented trading strategies and backtest process using python TA-Lib, backtrader libraries 
+- Analysed performance of trading strategies
+- Created a Python Flask website to showcase machine learning approach for stock price forecasting
+- Configured GitHub Workflows to build and deploy Google Cloud instances with Ansible and Packer and Terraform
 
 ## Student Developer @ Ericsson
 
@@ -66,29 +103,6 @@ January 2019 - July 2019
 - Designed a PoC of a Hyperledger Smart-Contract.
 - Implemented a Python LSTM model to forecast Linux machine's vulnerability.
 - Django backend was implement to interact with the application.
-
-# Projects
-
-## Financial Data Science & DevOps
-
-- Configured Freqtrade trading bots.
-- Implemented trading strategies and backtest process.
-- Studied performance of multiple trading strategies.
-- Created a Python Flask website to showcase machine learning approach for stock price forecasting.
-- Configured GitHub Workflows to build and deploy Google Cloud instances with Ansible and Packer.
-
-## Online-Shop
-
-- Wordpress website for selling sewing pattern PDF files.
-- Configured infrastracture for file sharing as well as python interface for easy cropping and rendering of the sewing pattern PDF files.
-- Configured Facebook Ads, Google Ads, Etsy.
-- [Link](https://moam-patterns.com/)
-
-## Social Media Automation
-
-- Developed Python application to analyze trending topics using Google Trends.
-- Developed another Python application to automate video cutting process using moviepy.
-- Automated Instagram, Youtube and Pinterest content upload.
 
 ## Other
 
