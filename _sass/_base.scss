@@ -1,8 +1,8 @@
 body {
-  font-family: var(--type-serif);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: var(--type-size);
   font-weight: var(--type-weight);
-  line-height: var(--type-height);
+  line-height: 1.65;
   font-variant-numeric: var(--type-numeric);
   background-color: var(--color-background);
   color: var(--color-text);
@@ -20,9 +20,13 @@ a {
 
   &:focus,
   &:hover {
-    border-bottom: calc(var(--type-size) / 10) dotted var(--color-link);
+    border-bottom: 1px solid currentColor;
     color: var(--color-link);
   }
+}
+
+.container {
+  max-width: 58rem;
 }
 
 header {

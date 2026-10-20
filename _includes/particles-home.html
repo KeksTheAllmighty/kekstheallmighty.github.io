@@ -1,33 +1,21 @@
-<div id="particles-js" class="fullscreen">
-  <div class="jumbotron text-center">
+<section class="profile-hero" aria-labelledby="profile-name">
+  <div class="profile-hero-inner">
     {% if site.photo %}
-    <img class="particles-photo" src="{{ site.photo }}" />
+    <img class="profile-portrait" src="{{ site.photo | relative_url }}" alt="Portrait of {{ site.author.name }}" />
     {% endif %}
-    <h1 class="particles-title">{{ site.title }}</h1>
-    <h1 class="particles-subtitle">{{ site.taglong }}</h1>
-    <div class="nowrap">
-      {% if site.social.facebook %}
-      <a class="particles-icon" href="https://www.facebook.com/{{ site.social.facebook }}">{% include svg/facebook.svg %}</a>
-      {% endif %}
-      {% if site.social.twitter %}
-      <a class="particles-icon" href="https://twitter.com/{{ site.social.twitter }}">{% include svg/twitter.svg %}</a>
-      {% endif %}
-      {% if site.social.instagram %}      
-      <a class="particles-icon" href="https://www.instagram.com/{{ site.social.instagram }}">{% include svg/instagram.svg %}</a>
-      {% endif %}
-      {% if site.social.linkedin %}
-      <a class="particles-icon" href="https://www.linkedin.com/in/{{ site.social.linkedin }}">{% include svg/linkedin.svg %}</a>
-      {% endif %}
-      {% if site.social.stackoverflow %}
-      <a class="particles-icon" href="https://stackoverflow.com/users/{{ site.social.stackoverflow }}">{% include svg/stackoverflow.svg %}</a>
-      {% endif %}
-      {% if site.social.github %}
-      <a class="particles-icon" href="https://github.com/{{ site.social.github }}">{% include svg/github.svg %}</a>
-      {% endif %}
-      <a class="particles-icon" href="cv.pdf">{% include svg/cv-circled.svg %}</a>
+    <div class="profile-intro">
+      <p class="profile-eyebrow">Cybersecurity · Frankfurt, Germany</p>
+      <h1 id="profile-name">{{ site.title }}</h1>
+      <p class="profile-role">Vice President Cybersecurity Manager at Helaba</p>
+      <p class="profile-summary">Building effective security operations and helping organizations detect, investigate, and respond to threats.</p>
+      <div class="profile-actions">
+        <a class="profile-button profile-button-primary" href="{{ '/cv/' | relative_url }}">View curriculum vitae</a>
+        <a class="profile-button profile-button-secondary" href="https://www.linkedin.com/in/{{ site.social.linkedin }}/">Connect on LinkedIn</a>
+      </div>
+      <div class="profile-links" aria-label="Professional links">
+        <a href="mailto:{{ site.author.email }}">Email</a>
+        <a href="https://github.com/{{ site.social.github }}">GitHub</a>
+      </div>
     </div>
   </div>
-  <div class="particles-scroll">
-    <a class="particles-icon" href="#scroll">{% include svg/nav-arrow-down.svg %}</a>
-  </div>
-</div>
+</section>

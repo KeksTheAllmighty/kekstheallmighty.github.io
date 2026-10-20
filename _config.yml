@@ -1,13 +1,13 @@
 # site settings
 
 title: Maksim Melnik
-description: IT-Security Professional, Software Developer
-taglong: IT-Security Professional, Software Developer
+description: Cybersecurity leader focused on security operations, threat detection, and incident response.
+taglong: Cybersecurity Leader · Security Operations · Threat Detection
 tagshort: Maksim Melnik
 url: https://mmelnik.de/
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/KeksTheAllmighty/kekstheallmighty.github.io
 
 # author settings
 
