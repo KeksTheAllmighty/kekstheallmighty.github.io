@@ -16,43 +16,44 @@ Security professional with experience spanning security operations, detection en
 ### Vice President Cybersecurity Manager · Helaba
 Frankfurt region, Germany
 
-- Oversee security operations delivery and manage the SOC service provider, aligning operational work with detection and response needs.
-- Lead incident analysis and response using Microsoft Sentinel and Microsoft Defender.
-- Develop and tune analytics rules; create and maintain response playbooks and runbooks.
-- Conduct threat hunts to identify suspicious activity, validate detection coverage, and surface improvement opportunities.
+- **SOC operations:** Oversee service delivery and manage the SOC service provider.
+- **Incident response:** Analyze and respond to incidents using Microsoft Sentinel and Microsoft Defender.
+- **Detection engineering:** Develop and tune analytics rules; create and maintain response playbooks and runbooks.
+- **Threat hunting:** Investigate suspicious activity, validate detection coverage, and identify improvements.
 
 ### Senior Cybersecurity Analyst · ACG Automation Consulting Group GmbH
 Frankfurt, Germany
 
-- Delivered security operations and engineering services for KfW, including monitoring, incident analysis, and response across ArcSight, Splunk, Microsoft Sentinel, and related tooling.
-- Authored Sigma detection rules and configured an internal OpenSearch SIEM to support security monitoring.
-- Performed vulnerability assessments and penetration tests of internal infrastructure; documented findings to support remediation.
-- Developed practical CTF challenges and phishing exercises for security awareness and training.
-- Contributed to threat hunts, compromise assessments, security use cases, and client security consulting.
+- **Security monitoring:** Monitored and investigated activity at KfW using ArcSight, Splunk, Microsoft Sentinel, and related tooling.
+- **SIEM and detection:** Authored Sigma detection rules and configured an internal OpenSearch SIEM.
+- **Security assessment:** Performed vulnerability assessments and internal infrastructure penetration tests; documented findings for remediation.
+- **Security training:** Developed practical CTF challenges and phishing exercises.
+- **Consulting:** Contributed to threat hunts, compromise assessments, security use cases, and client security engagements.
 
 ### Student Developer · Ericsson
 Frankfurt Rhine-Main region
 
-- Developed Gradle and Jenkins automation for testing and deploying the Ericsson BSCS product.
-- Built internal PHP and Spring applications and integrated single sign-on through Keycloak.
-- Implemented Kafka-based messaging and investigated Java resource consumption with JNI/JVMTI.
-- Created browser-based test automation using Python and Selenium and contributed to a Flutter application.
+- Developed Gradle and Jenkins automation for testing and deployment of the Ericsson BSCS product.
+- Built internal PHP and Spring applications; integrated single sign-on with Keycloak.
+- Implemented Kafka messaging and investigated Java resource use with JNI/JVMTI.
+- Created browser test automation using Python and Selenium; contributed to a Flutter application.
 
 ### Research Assistant · Technische Universität Darmstadt
 Darmstadt, Germany
 
-- Developed a WordPress plugin for cybercrime reporting and designed a Hyperledger smart-contract proof of concept.
-- Built a Python LSTM research prototype to forecast Linux machine vulnerabilities, supported by a Django backend.
+- Developed a WordPress plugin for cybercrime reporting.
+- Designed a Hyperledger smart-contract proof of concept.
+- Built a Python LSTM research prototype for forecasting Linux machine vulnerabilities, with a Django backend.
 
 ## Education
 
 ### M.Sc. IT Security · Technische Universität Darmstadt
 
-**Thesis:** Detection and sharing of crisis-related events using social-media data, machine-learning classification, and a Flutter application. The best evaluated model achieved an 85% macro-F1 score.
+**Thesis:** Detection and sharing of crisis-related events using social-media data, machine-learning classification, and a Flutter application. Best evaluated model: 85% macro-F1.
 
 ### B.Sc. Information Technology · Technische Universität Darmstadt
 
-**Thesis:** Implementation of an infrastructureless private set intersection protocol for Android using Bluetooth.
+**Thesis:** Private set intersection for Android over Bluetooth, implemented without infrastructure.
 
 ## Certifications and training
 
