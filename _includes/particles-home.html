@@ -1,13 +1,14 @@
 <section class="profile-hero" aria-labelledby="profile-name">
+  <button id="theme-toggle" class="profile-theme-toggle" type="button" aria-label="Toggle color theme" onclick="modeSwitcher()"></button>
   <div class="profile-hero-inner">
     {% if site.photo %}
     <img class="profile-portrait" src="{{ site.photo | relative_url }}" alt="Portrait of {{ site.author.name }}" />
     {% endif %}
     <div class="profile-intro">
-      <p class="profile-eyebrow">Cybersecurity · Frankfurt, Germany</p>
+      <p class="profile-eyebrow">Security Operations · Frankfurt, Germany</p>
       <h1 id="profile-name">{{ site.title }}</h1>
-      <p class="profile-role">Vice President Cybersecurity Manager at Helaba</p>
-      <p class="profile-summary">Building effective security operations and helping organizations detect, investigate, and respond to threats.</p>
+      <p class="profile-role">Detection Engineering · Incident Response · SIEM</p>
+      <p class="profile-summary">Hands-on security operations experience, backed by a software engineering background.</p>
       <div class="profile-actions">
         <a class="profile-button profile-button-primary" href="{{ '/cv/' | relative_url }}">View curriculum vitae</a>
         <a class="profile-button profile-button-secondary" href="https://www.linkedin.com/in/{{ site.social.linkedin }}/">Connect on LinkedIn</a>

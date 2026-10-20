@@ -46,6 +46,38 @@
   margin: 0 auto;
 }
 
+.profile-theme-toggle {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.5rem;
+  z-index: 2;
+  display: grid;
+  width: 2.75rem;
+  height: 2.75rem;
+  place-items: center;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.04);
+  color: #f4f7fb;
+  cursor: pointer;
+
+  svg {
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+
+  svg circle,
+  svg path {
+    stroke: currentColor;
+  }
+
+  &:hover,
+  &:focus {
+    border-color: rgba(255, 255, 255, 0.7);
+    background: rgba(255, 255, 255, 0.1);
+  }
+}
+
 .profile-portrait {
   width: 10rem;
   height: 10rem;
@@ -151,7 +183,7 @@
   }
 }
 
-.profile-hero a:focus-visible {
+.profile-hero :focus-visible {
   outline: 3px solid #9ed0f2;
   outline-offset: 3px;
 }

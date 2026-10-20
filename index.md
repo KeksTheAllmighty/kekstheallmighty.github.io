@@ -5,9 +5,9 @@ title: Home
 
 ## Profile
 
-I’m Maksim Melnik, a cybersecurity leader focused on building effective security operations and improving how organizations detect, investigate, and respond to threats. I currently work as Vice President Cybersecurity Manager at Helaba in the Frankfurt region.
+I’m Maksim Melnik, a security professional focused on security operations, detection engineering, and incident response. My background combines hands-on cyber defense with software engineering.
 
-My background spans cyber defense, security engineering, incident response, and software development. I bring a hands-on understanding of the systems behind security programs, alongside experience shaping the processes and capabilities that make them work.
+My work has included SIEM engineering, threat detection, incident analysis, vulnerability assessment, and security automation.
 
 ## Areas of focus
 
@@ -16,14 +16,12 @@ My background spans cyber defense, security engineering, incident response, and 
 - SIEM, EDR, and detection engineering
 - Security architecture and control integration
 - Vulnerability management and security assessment
-- Team development and operational improvement
+- Security automation and scripting
 
 ## Experience
 
 ### Helaba · Vice President Cybersecurity Manager
 *June 2025 – Present · Frankfurt region*
-
-Leading cybersecurity work in a financial-services environment.
 
 ### ACG Automation Consulting Group · Senior Cybersecurity Analyst
 *November 2020 – May 2025 · Frankfurt*

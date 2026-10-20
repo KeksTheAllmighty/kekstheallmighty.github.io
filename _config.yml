@@ -1,9 +1,9 @@
 # site settings
 
 title: Maksim Melnik
-description: Cybersecurity leader focused on security operations, threat detection, and incident response.
-taglong: Cybersecurity Leader · Security Operations · Threat Detection
-tagshort: Maksim Melnik
+description: Security operations, detection engineering, and incident response.
+taglong: Security Operations · Detection Engineering · Incident Response
+tagshort: Security Operations
 url: https://mmelnik.de/
 baseurl: ""
 permalink: pretty
