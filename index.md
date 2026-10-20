@@ -5,16 +5,16 @@ title: Home
 
 ## Profile
 
-I’m Maksim Melnik, a security professional working across blue-team operations and offensive security. My background combines hands-on cyber defense, penetration testing, and software engineering.
+Security professional working across cyber defense and hands-on security assessment, with a foundation in software engineering.
 
-My work has included SIEM and EDR engineering, threat detection, incident analysis, threat hunting, vulnerability assessment, penetration testing, and security automation.
+Experience includes SIEM and EDR engineering, threat detection, incident analysis, threat hunting, vulnerability assessment, penetration testing, and security automation.
 
 ## Areas of focus
 
 - Blue-team operations, threat hunting, and incident response
 - SIEM, EDR, and detection engineering
 - Analytics rules, Sigma detections, playbooks, and runbooks
-- Penetration testing and vulnerability assessment
+- Vulnerability assessment and penetration testing
 - Security architecture and control integration
 - Security automation and scripting
 
@@ -23,16 +23,16 @@ My work has included SIEM and EDR engineering, threat detection, incident analys
 ### Helaba · Vice President Cybersecurity Manager
 *June 2025 – Present · Frankfurt region*
 
-Analyze and respond to security incidents using Microsoft Sentinel and Microsoft Defender. Develop analytics rules and operational playbooks/runbooks, conduct threat hunts, and manage the SOC service provider.
+Oversee security operations delivery and the SOC service provider, with a hands-on focus on detection and response. Lead incident analysis and response across Microsoft Sentinel and Microsoft Defender; develop and tune analytics rules; maintain response playbooks and runbooks; and conduct threat hunts to identify gaps and strengthen coverage.
 
 ### ACG Automation Consulting Group · Senior Cybersecurity Analyst
 *November 2020 – May 2025 · Frankfurt*
 
-Worked across security operations, incident response, threat detection, SIEM engineering, vulnerability assessment, penetration testing, and security awareness. At KfW, this included monitoring and incident analysis with ArcSight, Splunk, and Microsoft Sentinel; developing Sigma detection rules; configuring an internal OpenSearch SIEM; conducting internal infrastructure penetration tests; and creating practical CTF exercises.
+Delivered security operations and engineering work across incident response, threat detection, SIEM, vulnerability assessment, and security testing. At KfW, monitored and investigated activity using ArcSight, Splunk, and Microsoft Sentinel; developed Sigma detections and configured an internal OpenSearch SIEM; performed internal infrastructure penetration tests; and created practical CTF exercises and phishing-awareness activities.
 
 ### Earlier engineering and research
 
-At Ericsson, I worked on test and deployment automation, Java services, Kafka messaging, identity integration, and internal applications. At TU Darmstadt, I contributed to cybercrime reporting tools and research projects involving machine learning and security.
+At Ericsson, built and maintained test and deployment automation, Java services, Kafka messaging, identity integrations, and internal applications. As a research assistant at TU Darmstadt, developed cybercrime reporting tools and contributed to applied research in machine learning and security.
 
 ## Credentials and education
 

@@ -9,49 +9,50 @@ title: CV
 
 ## Profile
 
-Security professional with hands-on experience across blue-team operations and offensive security. Focused on threat detection, incident analysis and response, threat hunting, SIEM/EDR engineering, penetration testing, and security automation.
+Security professional with experience spanning security operations, detection engineering, incident response, threat hunting, and security assessment. Combines operational oversight with hands-on work in Microsoft Sentinel and Defender, SIEM/EDR detection, and penetration testing, supported by a software engineering background.
 
 ## Experience
 
 ### Vice President Cybersecurity Manager · Helaba
 Frankfurt region, Germany
 
-- Analyze and respond to security incidents using Microsoft Sentinel and Microsoft Defender.
-- Develop analytics rules, playbooks, and runbooks to support detection and response operations.
-- Conduct threat hunts and manage the SOC service provider.
+- Oversee security operations delivery and manage the SOC service provider, aligning operational work with detection and response needs.
+- Lead incident analysis and response using Microsoft Sentinel and Microsoft Defender.
+- Develop and tune analytics rules; create and maintain response playbooks and runbooks.
+- Conduct threat hunts to identify suspicious activity, validate detection coverage, and surface improvement opportunities.
 
 ### Senior Cybersecurity Analyst · ACG Automation Consulting Group GmbH
 Frankfurt, Germany
 
-- Supported SOC operations, incident detection, analysis, and response at KfW using ArcSight, Splunk, Microsoft Sentinel, and related tooling.
-- Developed Sigma detection rules and configured an internal OpenSearch SIEM instance.
-- Conducted vulnerability assessments and penetration tests of internal infrastructure.
-- Built CTF challenges and supported security awareness training, including phishing exercises.
-- Contributed to threat hunting, compromise assessments, security use cases, and client security consulting.
+- Delivered security operations and engineering services for KfW, including monitoring, incident analysis, and response across ArcSight, Splunk, Microsoft Sentinel, and related tooling.
+- Authored Sigma detection rules and configured an internal OpenSearch SIEM to support security monitoring.
+- Performed vulnerability assessments and penetration tests of internal infrastructure; documented findings to support remediation.
+- Developed practical CTF challenges and phishing exercises for security awareness and training.
+- Contributed to threat hunts, compromise assessments, security use cases, and client security consulting.
 
 ### Student Developer · Ericsson
 Frankfurt Rhine-Main region
 
-- Built Gradle and Jenkins automation for testing and deployment of the Ericsson BSCS product.
-- Developed internal PHP and Spring applications and integrated single sign-on with Keycloak.
-- Implemented Kafka-based messaging and analyzed Java resource consumption with JNI/JVMTI.
-- Created automated browser tests with Python and Selenium and contributed to a Flutter application.
+- Developed Gradle and Jenkins automation for testing and deploying the Ericsson BSCS product.
+- Built internal PHP and Spring applications and integrated single sign-on through Keycloak.
+- Implemented Kafka-based messaging and investigated Java resource consumption with JNI/JVMTI.
+- Created browser-based test automation using Python and Selenium and contributed to a Flutter application.
 
 ### Research Assistant · Technische Universität Darmstadt
 Darmstadt, Germany
 
-- Developed a WordPress plugin for submitting cybercrime reports and designed a Hyperledger smart-contract proof of concept.
-- Implemented a Python LSTM prototype to forecast Linux machine vulnerabilities, with a Django backend.
+- Developed a WordPress plugin for cybercrime reporting and designed a Hyperledger smart-contract proof of concept.
+- Built a Python LSTM research prototype to forecast Linux machine vulnerabilities, supported by a Django backend.
 
 ## Education
 
 ### M.Sc. IT Security · Technische Universität Darmstadt
 
-Master’s thesis: social-media-based detection and sharing of crisis-related events using machine-learning classification and a Flutter application. The best evaluated model achieved an 85% macro-F1 score.
+**Thesis:** Detection and sharing of crisis-related events using social-media data, machine-learning classification, and a Flutter application. The best evaluated model achieved an 85% macro-F1 score.
 
 ### B.Sc. Information Technology · Technische Universität Darmstadt
 
-Bachelor’s thesis: implementation of an infrastructureless private set intersection protocol for Android using Bluetooth.
+**Thesis:** Implementation of an infrastructureless private set intersection protocol for Android using Bluetooth.
 
 ## Certifications and training
 
