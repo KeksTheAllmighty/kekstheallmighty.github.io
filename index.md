@@ -5,17 +5,17 @@ title: Home
 
 ## Profile
 
-I’m Maksim Melnik, a security professional focused on security operations, detection engineering, and incident response. My background combines hands-on cyber defense with software engineering.
+I’m Maksim Melnik, a security professional working across blue-team operations and offensive security. My background combines hands-on cyber defense, penetration testing, and software engineering.
 
-My work has included SIEM engineering, threat detection, incident analysis, vulnerability assessment, and security automation.
+My work has included SIEM and EDR engineering, threat detection, incident analysis, threat hunting, vulnerability assessment, penetration testing, and security automation.
 
 ## Areas of focus
 
-- Security operations and cyber defense
-- Threat detection, hunting, and incident response
+- Blue-team operations, threat hunting, and incident response
 - SIEM, EDR, and detection engineering
+- Analytics rules, Sigma detections, playbooks, and runbooks
+- Penetration testing and vulnerability assessment
 - Security architecture and control integration
-- Vulnerability management and security assessment
 - Security automation and scripting
 
 ## Experience
@@ -23,10 +23,12 @@ My work has included SIEM engineering, threat detection, incident analysis, vuln
 ### Helaba · Vice President Cybersecurity Manager
 *June 2025 – Present · Frankfurt region*
 
+Analyze and respond to security incidents using Microsoft Sentinel and Microsoft Defender. Develop analytics rules and operational playbooks/runbooks, conduct threat hunts, and manage the SOC service provider.
+
 ### ACG Automation Consulting Group · Senior Cybersecurity Analyst
 *November 2020 – May 2025 · Frankfurt*
 
-Worked across security operations, incident response, threat detection, SIEM engineering, vulnerability assessment, and security awareness. At KfW, this included monitoring and incident analysis with ArcSight, Splunk, and Microsoft Sentinel; developing Sigma detection rules; configuring an internal OpenSearch SIEM; and creating practical CTF exercises.
+Worked across security operations, incident response, threat detection, SIEM engineering, vulnerability assessment, penetration testing, and security awareness. At KfW, this included monitoring and incident analysis with ArcSight, Splunk, and Microsoft Sentinel; developing Sigma detection rules; configuring an internal OpenSearch SIEM; conducting internal infrastructure penetration tests; and creating practical CTF exercises.
 
 ### Earlier engineering and research
 

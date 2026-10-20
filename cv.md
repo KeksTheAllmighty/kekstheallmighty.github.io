@@ -9,12 +9,16 @@ title: CV
 
 ## Profile
 
-Security professional with hands-on experience across security operations, cyber defense, detection engineering, incident response, and software development. Focused on practical threat detection, investigation, and response.
+Security professional with hands-on experience across blue-team operations and offensive security. Focused on threat detection, incident analysis and response, threat hunting, SIEM/EDR engineering, penetration testing, and security automation.
 
 ## Experience
 
 ### Vice President Cybersecurity Manager · Helaba
 Frankfurt region, Germany
+
+- Analyze and respond to security incidents using Microsoft Sentinel and Microsoft Defender.
+- Develop analytics rules, playbooks, and runbooks to support detection and response operations.
+- Conduct threat hunts and manage the SOC service provider.
 
 ### Senior Cybersecurity Analyst · ACG Automation Consulting Group GmbH
 Frankfurt, Germany

@@ -20,7 +20,9 @@ a {
 
   &:focus,
   &:hover {
-    border-bottom: 1px solid currentColor;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
     color: var(--color-link);
   }
 }
